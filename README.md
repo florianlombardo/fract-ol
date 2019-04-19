@@ -8,8 +8,8 @@ TODO: Adapt to all platforms and lower mouse latency by changing parsing.
 
 # Screenshots
 
-![alt text](screenshots/Screen Shot 2019-04-19 at 15.40.47.png "Mandelbrot fractal")
+![alt text](screenshots/mandelbrot.png "Mandelbrot fractal")
 
-![alt text](screenshots/Screen Shot 2019-04-19 at 15.50.06.png "Julia fractal")
+![alt text](screenshots/julia.png "Julia fractal")
 
-![alt text](screenshots/Screen Shot 2019-04-19 at 15.51.46.png "Burningships fractal")
+![alt text](screenshots/burningships.png "Burningships fractal")
