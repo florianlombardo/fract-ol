@@ -5,6 +5,7 @@ Only works on Mac OS (for now).
 
 TODO: Adapt to all platforms and lower mouse latency by changing parsing.
 
+
 # Screenshots
 
 ![alt text](screenshots/mandelbrot.png "Mandelbrot fractal")
